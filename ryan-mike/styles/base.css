@@ -11,6 +11,11 @@ body header section h1 {
   margin-top: 0px;
 }
 
+body header nav a {
+  color: black;
+  text-decoration: none; 
+}
+
 body header ul {
   list-style-type: none;
   padding-left: 0px;
